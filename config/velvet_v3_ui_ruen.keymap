@@ -110,10 +110,10 @@
 
         en {
             bindings = <
-&kp TAB        &kp Q        &kp W        &kp E         &kp R         &kp T                        &kp Y  &kp U           &kp I         &kp O        &kp P                &kp BSLH
-&kp LSHIFT     &hml LGUI A  &hml LALT S  &hml LSHFT D  &hml LCTRL F  &kp G                        &kp H  &hmr RCTRL J    &hmr RSHFT K  &hmr LALT L  &hmr RGUI SEMICOLON  &kp RSHIFT
-&mt LSHFT ESC  &kp Z        &kp X        &kp C         &kp V         &kp B                        &kp N  &kp M           &kp COMMA     &kp DOT      &kp SQT              &mt RCTRL ESC
-                            &kp LALT     &kp LCTRL     &kp LGUI      &mo 2  &kp SPACE    &kp RET  &mo 3  &cap_sen 6 MB1  &kp LBKT      &kp RBKT
+&kp TAB        &kp Q        &kp W        &kp E         &kp R         &kp T                        &kp Y            &kp U           &kp I         &kp O        &kp P                &kp BSLH
+&kp LSHIFT     &hml LGUI A  &hml LALT S  &hml LSHFT D  &hml LCTRL F  &kp G                        &kp H            &hmr RCTRL J    &hmr RSHFT K  &hmr LALT L  &hmr RGUI SEMICOLON  &kp RSHIFT
+&mt LSHFT ESC  &kp Z        &kp X        &kp C         &kp V         &kp B                        &kp N            &kp M           &kp COMMA     &kp DOT      &kp SQT              &mt RCTRL ESC
+                            &kp LALT     &kp LCTRL     &kp LGUI      &mo 2  &kp SPACE    &kp RET  &lt 3 BACKSPACE  &cap_sen 6 MB1  &kp LBKT      &kp RBKT
             >;
 
             display-name = "en";
